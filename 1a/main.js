@@ -16,3 +16,8 @@ import { PI as pivalue} from './constants.js';
 import * as MathUtils from "./math.js"
 console.log(MathUtils.add(2,3))
 console.log(MathUtils.mul(2, 30))
+
+//helooolllo
+
+let name = KeyboardEvent
+const bok = hejkla
